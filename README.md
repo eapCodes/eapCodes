@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Eduardo A. Paz 👋
 
-<!--
-**eapCodes/eapCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ Aspirant Embedded Security Engineer
+I am currently bridging the gap between Computer Science and Hardware Security to protect Critical Infrastructure.
 
-Here are some ideas to get you started:
+- 🔭 **Current Focus:** [Project 1: Secure Industrial Gateway](link-to-your-other-repo)
+- 🎓 **Learning:** CS50 (Harvard) & Embedded C++ on ARM Cortex-M4 (Uno R4)
+- 🎯 **Goal:** 2026/2027 Internship at Idaho National Laboratory (INL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 My Roadmap to INL
+- [ ] **Project 1:** Secure Industrial Gateway (Networking & Auth) - *In Progress*
+- [ ] **Project 2:** Hardware Watchdog (Resilience & Reliability)
+- [ ] **Project 3:** CAN Bus Traffic Analyzer (Reverse Engineering)
+
+### 📊 Skills & Tools
+- **Languages:** C, C++ (Arduino), Python (Learning)
+- **Hardware:** Arduino Uno R4 WiFi, ESP32, Servo Actuators, Sensors
+- **Concepts:** Cyber-Informed Engineering (CIE), IoT Security, Fault-Tolerance
