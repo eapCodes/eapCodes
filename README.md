@@ -1,20 +1,14 @@
 # Hi, I'm Eduardo A. Paz 👋
 
-### 🛡️ Aspirant Embedded Security Engineer
-I am currently bridging the gap between Computer Science and Hardware Security to protect Critical Infrastructure.
+# Cyber-Physical Research Lab
 
-- 🔭 **Current Focus:** [Project 1: Secure Industrial Gateway](link-to-your-other-repo)
-- 🎓 **Learning:** CS50 (Harvard) & Embedded C++ on ARM Cortex-M4 (Uno R4)
-- 🎯 **Goal:** 2026/2027 Internship at Idaho National Laboratory (INL)
+This repository serves as a technical log for my journey into embedded systems and cybersecurity. 
 
----
+## 📂 Repository Structure
+* **[theory/](https://github.com/eapCodes/Cyber-Physical-Research/tree/main/theory):** CS50 Computer Science fundamentals and C programming logic.
+* **[hardware/](https://github.com/eapCodes/Cyber-Physical-Research/tree/main/hardware):** Physical computing and embedded security protocols.
 
-### 🚀 My Roadmap to INL
-- [ ] **Project 1:** Secure Industrial Gateway (Networking & Auth) - *In Progress*
-- [ ] **Project 2:** Hardware Watchdog (Resilience & Reliability)
-- [ ] **Project 3:** CAN Bus Traffic Analyzer (Reverse Engineering)
-
-### 📊 Skills & Tools
-- **Languages:** C, C++ (Arduino), Python (Learning)
-- **Hardware:** Arduino Uno R4 WiFi, ESP32, Servo Actuators, Sensors
-- **Concepts:** Cyber-Informed Engineering (CIE), IoT Security, Fault-Tolerance
+## 🛠️ Current Tech Stack
+- **Hardware:** Arduino Uno R4 WiFi (ARM Cortex-M4)
+- **Languages:** C, C++
+- **Focus:** Critical Infrastructure Protection (CIP)
