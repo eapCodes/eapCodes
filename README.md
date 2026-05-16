@@ -1,30 +1,29 @@
-# Hi, I'm Eduardo A. Paz
+# Eduardo A. Paz
 
-I'm a Computer Science and Software Engineering student at Idaho State University with an interest in software development, cybersecurity, embedded systems, and cyber-physical systems.
+**Embedded Systems · Cybersecurity · Machine Learning**
+Idaho State University — Computer Science & Software Engineering
 
-## Current Focus
+---
 
-- Android app development
-- C, C++, Java, Python, and C#
-- Embedded systems with Arduino
-- Cybersecurity fundamentals
-- Linux, Git, and technical troubleshooting
-- Critical Infrastructure Protection (CIP)
+## What I Build
 
-## Featured Projects
+I build hardware-to-software security systems — writing C++ firmware for
+ARM Cortex-M4 microcontrollers, connecting them to Python ML pipelines,
+and applying cybersecurity principles to critical infrastructure problems.
 
-### Cyber-Physical Research Lab
-A technical learning repository focused on embedded systems, cybersecurity fundamentals, and cyber-physical systems. I use this repo to organize hardware experiments, theory notes, and documentation related to critical infrastructure security.
+**Current stack:** Arduino Uno R4 WiFi · C++ · Python · scikit-learn · Flask · SQL
 
-### Android Expense Tracker App
-A school project built in Android Studio to help users track and organize expenses. This project includes app design, debugging, user input handling, and mobile software development practice.
+---
 
-### Systems and Hardware Work
-Independent technical work involving PC building, Raspberry Pi setup, Linux/Windows configuration, system troubleshooting, and technical documentation.
+## Courses
 
-## Tools and Technologies
+| Course | Status |
+|--------|--------|
+| Harvard CS50x | 🔄 In Progress |
+| Fast.ai Practical Deep Learning Part 1 | 🔄 In Progress |
+| Andrej Karpathy: Neural Networks Zero to Hero | 🔄 In Progress |
+| Arduino Uno R4 WiFi — 100 Lessons | 🔄 In Progress |
 
-- Languages: Java, C#, Python, C, C++, SQL
-- Tools: Git, GitHub, Android Studio, Visual Studio, VS Code
-- Systems: Windows, Linux, Raspberry Pi, Arduino
-- Interests: Software engineering, cybersecurity, embedded systems, and critical infrastructure
+---
+
+*Committing every day.*
